@@ -5,9 +5,9 @@
     <title>Conversor de Números</title>
 </head>
 <body>
-    <h1>Conversor de Números</h1>
+    <h1>Conversor de numeros - decimal (binario-octal-hexadecimal)</h1>
     <form method="post" action="">
-        <label for="decimal">Número Decimal:</label>
+        <label for="decimal">Ingresa el numero Decimal:</label>
         <input type="number" id="decimal" name="decimal" required>
         <br><br>
         <label for="conversion">Convertir a:</label>
